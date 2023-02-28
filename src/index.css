@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: 'Duru Sans', sans-serif;
+}
+
+body {
+  margin: 0;
+}
